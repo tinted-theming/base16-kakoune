@@ -1,6 +1,6 @@
 # Base16 for Kakoune
 
-This template maps Base16 themes to Kakoune colorschemes.
+This template maps [Base16 themes][1] to [Kakoune][5] colorschemes.
 
 Have a look at the [gallery][3] page for examples of what the themes
 look like.
@@ -61,10 +61,8 @@ evaluate-commands %sh{
 See [`CONTRIBUTING.md`][4], which contains building and contributing
 instructions.
 
-See the [Base16 repository][1] for more information.
-
 [1]: https://github.com/base16-project/home
 [2]: https://github.com/base16-project/base16-shell
 [3]: https://github.com/base16-project/base16-gallery
 [4]: CONTRIBUTING.md
-
+[5]: https://kakoune.org/
