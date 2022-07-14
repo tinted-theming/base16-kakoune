@@ -1,8 +1,9 @@
 # Base16 for Kakoune
 
-See the [Base16 repository][1] for more information.
-
 This template maps Base16 themes to Kakoune colorschemes.
+
+Have a look at the [gallery][3] page for examples of what the themes
+look like.
 
 ## Installation
 
@@ -45,8 +46,9 @@ should appear.
 
 ### [Base16-shell][2] 
 
-For usage with [base16-shell][2], add the following to `kakrc` file and
-your theme will update whenever you update your theme via base16-shell.
+For usage with [base16-shell][2], add the following to your `kakrc` file
+and your theme will update whenever you update your theme via
+base16-shell.
 
 ```kak
 evaluate-commands %sh{
@@ -56,10 +58,13 @@ evaluate-commands %sh{
 
 ## Contributing
 
-See [`CONTRIBUTING.md`][3], which contains building and contributing
+See [`CONTRIBUTING.md`][4], which contains building and contributing
 instructions.
+
+See the [Base16 repository][1] for more information.
 
 [1]: https://github.com/base16-project/home
 [2]: https://github.com/base16-project/base16-shell
-[3]: CONTRIBUTING.md
+[3]: https://github.com/base16-project/base16-gallery
+[4]: CONTRIBUTING.md
 
