@@ -1,6 +1,6 @@
 # Contributing
 
-This repository includes a [GitHub Action][4] that builds the
+This repository includes a [GitHub Action][3] that builds the
 colorschemes once a week. This keeps the colorschemes up-to-date
 automatically.
 
