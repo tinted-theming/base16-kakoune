@@ -7,12 +7,22 @@ look like.
 
 ## Installation
 
+### [Plug](https://github.com/andreyorst/plug.kak)
+
+```kak
+plug "base16-project/base16-kakoune" theme config %{
+    colorscheme base16-ocean
+}
+```
+
+### Manual 
+
 Move `colors/*.kak` files into `$HOME/.config/kak/colors` or create a
 symlink of `colors` directory. It's recommeded that you symlink the
 `colors` directory, so that you can update the colors by simply doing a
 `git pull` in your local copy of `base16-kakoune`
 
-### Move files
+#### Move files
 
 ```shell
 cd $HOME/.config/kak
@@ -22,7 +32,7 @@ cp ./base16-kakoune/colors/* ./colors
 rm -rf ./base16-kakoune
 ```
 
-### Symlink method
+#### Symlink method
 
 ```shell
 cd $HOME/.config
@@ -63,6 +73,6 @@ instructions.
 
 [1]: https://github.com/base16-project/home
 [2]: https://github.com/base16-project/base16-shell
-[3]: https://github.com/base16-project/base16-gallery
+[3]: https://base16-project.github.io/base16-gallery/
 [4]: CONTRIBUTING.md
 [5]: https://kakoune.org/
