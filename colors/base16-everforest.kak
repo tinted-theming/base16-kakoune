@@ -4,27 +4,27 @@
 # Base16-project: (https://github.com/base16-project/base16)
 #
 # Authors:
-# Scheme: sainnhe
+# Scheme: Sainnhe Park (https://github.com/sainnhe)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:2b3339'
-declare-option str base01 'rgb:323c41'
-declare-option str base02 'rgb:3a4248'
-declare-option str base03 'rgb:868d80'
-declare-option str base04 'rgb:a59572'
+declare-option str base00 'rgb:2f383e'
+declare-option str base01 'rgb:374247'
+declare-option str base02 'rgb:4a555b'
+declare-option str base03 'rgb:859289'
+declare-option str base04 'rgb:9da9a0'
 declare-option str base05 'rgb:d3c6aa'
-declare-option str base06 'rgb:e9e8d2'
-declare-option str base07 'rgb:fff9e8'
-declare-option str base08 'rgb:e67e80'
-declare-option str base09 'rgb:e69875'
+declare-option str base06 'rgb:e4e1cd'
+declare-option str base07 'rgb:fdf6e3'
+declare-option str base08 'rgb:7fbbb3'
+declare-option str base09 'rgb:d699b6'
 declare-option str base0A 'rgb:dbbc7f'
-declare-option str base0B 'rgb:a7c080'
-declare-option str base0C 'rgb:83c092'
-declare-option str base0D 'rgb:7fbbb3'
-declare-option str base0E 'rgb:d699b6'
-declare-option str base0F 'rgb:d699b6'
+declare-option str base0B 'rgb:83c092'
+declare-option str base0C 'rgb:e69875'
+declare-option str base0D 'rgb:a7c080'
+declare-option str base0E 'rgb:e67e80'
+declare-option str base0F 'rgb:eaedc8'
 
 # code
 
