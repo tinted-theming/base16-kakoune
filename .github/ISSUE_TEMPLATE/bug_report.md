@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: "[Bug report] "
 labels: ["bug"]
 assignees: 
-  - base16-project/kakoune
+  - tinted-theming/kakoune
 ---
 
 ## Describe the bug

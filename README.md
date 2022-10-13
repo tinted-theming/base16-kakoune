@@ -10,7 +10,7 @@ look like.
 ### [Plug](https://github.com/andreyorst/plug.kak)
 
 ```kak
-plug "base16-project/base16-kakoune" theme config %{
+plug "tinted-theming/base16-kakoune" theme config %{
     colorscheme base16-ocean
 }
 ```
@@ -26,7 +26,7 @@ symlink of `colors` directory. It's recommeded that you symlink the
 
 ```shell
 cd $HOME/.config/kak
-git clone https://github.com/base16-project/base16-kakoune.git
+git clone https://github.com/tinted-theming/base16-kakoune.git
 if [ ! -d "./colors" ]; then mkdir "colors"; fi
 cp ./base16-kakoune/colors/* ./colors
 rm -rf ./base16-kakoune
@@ -36,7 +36,7 @@ rm -rf ./base16-kakoune
 
 ```shell
 cd $HOME/.config
-git clone https://github.com/base16-project/base16-kakoune.git
+git clone https://github.com/tinted-theming/base16-kakoune.git
 ln -s $HOME/.config/base16-kakoune/colors $HOME/.config/kak/colors
 ```
 
@@ -71,8 +71,8 @@ evaluate-commands %sh{
 See [`CONTRIBUTING.md`][4], which contains building and contributing
 instructions.
 
-[1]: https://github.com/base16-project/home
-[2]: https://github.com/base16-project/base16-shell
-[3]: https://base16-project.github.io/base16-gallery/
+[1]: https://github.com/tinted-theming/home
+[2]: https://github.com/tinted-theming/base16-shell
+[3]: https://tinted-theming.github.io/base16-gallery/
 [4]: CONTRIBUTING.md
 [5]: https://kakoune.org/

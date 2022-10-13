@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: "[Feature request] "
 labels: ["feature"]
 assignees: 
-  - base16-project/kakoune
+  - tinted-theming/kakoune
 ---
 
 ## Is your feature request related to a problem? Please describe.
