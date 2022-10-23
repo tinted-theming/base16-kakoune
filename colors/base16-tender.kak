@@ -1,7 +1,7 @@
 # base16-tender 
 #
 # Commentary:
-# Base16-project: (https://github.com/base16-project/base16)
+# Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
 # Scheme: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)

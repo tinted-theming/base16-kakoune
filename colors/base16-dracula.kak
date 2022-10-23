@@ -1,7 +1,7 @@
 # base16-dracula 
 #
 # Commentary:
-# Base16-project: (https://github.com/base16-project/base16)
+# Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
 # Scheme: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)

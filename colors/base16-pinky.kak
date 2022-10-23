@@ -1,7 +1,7 @@
 # base16-pinky 
 #
 # Commentary:
-# Base16-project: (https://github.com/base16-project/base16)
+# Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
 # Scheme: Benjamin (https://github.com/b3nj5m1n)

@@ -1,7 +1,7 @@
 # base16-rebecca 
 #
 # Commentary:
-# Base16-project: (https://github.com/base16-project/base16)
+# Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
 # Scheme: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)

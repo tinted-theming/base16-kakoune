@@ -1,7 +1,7 @@
 # base16-papercolor-dark 
 #
 # Commentary:
-# Base16-project: (https://github.com/base16-project/base16)
+# Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
 # Scheme: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)

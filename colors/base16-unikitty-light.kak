@@ -1,7 +1,7 @@
 # base16-unikitty-light 
 #
 # Commentary:
-# Base16-project: (https://github.com/base16-project/base16)
+# Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
 # Scheme: Josh W Lewis (@joshwlewis)

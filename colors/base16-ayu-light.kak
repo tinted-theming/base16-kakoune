@@ -1,7 +1,7 @@
 # base16-ayu-light 
 #
 # Commentary:
-# Base16-project: (https://github.com/base16-project/base16)
+# Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
 # Scheme: Khue Nguyen &lt;Z5483Y@gmail.com&gt;

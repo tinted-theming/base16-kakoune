@@ -1,7 +1,7 @@
 # base16-pico 
 #
 # Commentary:
-# Base16-project: (https://github.com/base16-project/base16)
+# Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
 # Scheme: PICO-8 (http://www.lexaloffle.com/pico-8.php)

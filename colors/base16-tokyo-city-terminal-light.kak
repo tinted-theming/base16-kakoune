@@ -1,7 +1,7 @@
 # base16-tokyo-city-terminal-light 
 #
 # Commentary:
-# Base16-project: (https://github.com/base16-project/base16)
+# Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
 # Scheme: Michaël Ball
