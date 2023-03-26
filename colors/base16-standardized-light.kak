@@ -1,30 +1,30 @@
-# base16-mountain 
+# base16-standardized-light 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: gnsfujiwara (https://github.com/gnsfujiwara)
+# Scheme: ali (https://github.com/ali-githb/base16-standardized-scheme)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:0f0f0f'
-declare-option str base01 'rgb:191919'
-declare-option str base02 'rgb:262626'
-declare-option str base03 'rgb:4c4c4c'
-declare-option str base04 'rgb:ac8a8c'
-declare-option str base05 'rgb:cacaca'
-declare-option str base06 'rgb:e7e7e7'
-declare-option str base07 'rgb:f0f0f0'
-declare-option str base08 'rgb:ac8a8c'
-declare-option str base09 'rgb:ceb188'
-declare-option str base0A 'rgb:aca98a'
-declare-option str base0B 'rgb:8aac8b'
-declare-option str base0C 'rgb:8aabac'
-declare-option str base0D 'rgb:8f8aac'
-declare-option str base0E 'rgb:ac8aac'
-declare-option str base0F 'rgb:ac8a8c'
+declare-option str base00 'rgb:ffffff'
+declare-option str base01 'rgb:eeeeee'
+declare-option str base02 'rgb:cccccc'
+declare-option str base03 'rgb:767676'
+declare-option str base04 'rgb:767676'
+declare-option str base05 'rgb:444444'
+declare-option str base06 'rgb:333333'
+declare-option str base07 'rgb:222222'
+declare-option str base08 'rgb:d03e3e'
+declare-option str base09 'rgb:d7691d'
+declare-option str base0A 'rgb:ad8200'
+declare-option str base0B 'rgb:31861f'
+declare-option str base0C 'rgb:00998f'
+declare-option str base0D 'rgb:3173c5'
+declare-option str base0E 'rgb:9e57c2'
+declare-option str base0F 'rgb:895025'
 
 # code
 

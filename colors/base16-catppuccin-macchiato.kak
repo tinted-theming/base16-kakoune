@@ -1,30 +1,30 @@
-# base16-mountain 
+# base16-catppuccin-macchiato 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: gnsfujiwara (https://github.com/gnsfujiwara)
+# Scheme: https://github.com/catppuccin/catppuccin
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:0f0f0f'
-declare-option str base01 'rgb:191919'
-declare-option str base02 'rgb:262626'
-declare-option str base03 'rgb:4c4c4c'
-declare-option str base04 'rgb:ac8a8c'
-declare-option str base05 'rgb:cacaca'
-declare-option str base06 'rgb:e7e7e7'
-declare-option str base07 'rgb:f0f0f0'
-declare-option str base08 'rgb:ac8a8c'
-declare-option str base09 'rgb:ceb188'
-declare-option str base0A 'rgb:aca98a'
-declare-option str base0B 'rgb:8aac8b'
-declare-option str base0C 'rgb:8aabac'
-declare-option str base0D 'rgb:8f8aac'
-declare-option str base0E 'rgb:ac8aac'
-declare-option str base0F 'rgb:ac8a8c'
+declare-option str base00 'rgb:24273a'
+declare-option str base01 'rgb:1e2030'
+declare-option str base02 'rgb:363a4f'
+declare-option str base03 'rgb:494d64'
+declare-option str base04 'rgb:5b6078'
+declare-option str base05 'rgb:cad3f5'
+declare-option str base06 'rgb:f4dbd6'
+declare-option str base07 'rgb:b7bdf8'
+declare-option str base08 'rgb:ed8796'
+declare-option str base09 'rgb:f5a97f'
+declare-option str base0A 'rgb:eed49f'
+declare-option str base0B 'rgb:a6da95'
+declare-option str base0C 'rgb:8bd5ca'
+declare-option str base0D 'rgb:8aadf4'
+declare-option str base0E 'rgb:c6a0f6'
+declare-option str base0F 'rgb:f0c6c6'
 
 # code
 
