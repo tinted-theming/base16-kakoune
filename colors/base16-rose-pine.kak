@@ -4,7 +4,7 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Scheme: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
@@ -12,19 +12,19 @@
 declare-option str base00 'rgb:191724'
 declare-option str base01 'rgb:1f1d2e'
 declare-option str base02 'rgb:26233a'
-declare-option str base03 'rgb:555169'
-declare-option str base04 'rgb:6e6a86'
+declare-option str base03 'rgb:6e6a86'
+declare-option str base04 'rgb:908caa'
 declare-option str base05 'rgb:e0def4'
-declare-option str base06 'rgb:f0f0f3'
-declare-option str base07 'rgb:c5c3ce'
-declare-option str base08 'rgb:e2e1e7'
-declare-option str base09 'rgb:eb6f92'
-declare-option str base0A 'rgb:f6c177'
-declare-option str base0B 'rgb:ebbcba'
-declare-option str base0C 'rgb:31748f'
-declare-option str base0D 'rgb:9ccfd8'
-declare-option str base0E 'rgb:c4a7e7'
-declare-option str base0F 'rgb:e5e5e5'
+declare-option str base06 'rgb:e0def4'
+declare-option str base07 'rgb:524f67'
+declare-option str base08 'rgb:eb6f92'
+declare-option str base09 'rgb:f6c177'
+declare-option str base0A 'rgb:ebbcba'
+declare-option str base0B 'rgb:31748f'
+declare-option str base0C 'rgb:9ccfd8'
+declare-option str base0D 'rgb:c4a7e7'
+declare-option str base0E 'rgb:f6c177'
+declare-option str base0F 'rgb:524f67'
 
 # code
 
