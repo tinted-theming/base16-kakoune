@@ -4,7 +4,7 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+# Scheme: Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette

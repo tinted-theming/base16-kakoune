@@ -1,30 +1,30 @@
-# base16-papercolor-light 
+# base16-terracotta-dark 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Scheme: Alexander Rossell Hayes (https://github.com/rossellhayes)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:eeeeee'
-declare-option str base01 'rgb:af0000'
-declare-option str base02 'rgb:008700'
-declare-option str base03 'rgb:5f8700'
-declare-option str base04 'rgb:0087af'
-declare-option str base05 'rgb:444444'
-declare-option str base06 'rgb:005f87'
-declare-option str base07 'rgb:878787'
-declare-option str base08 'rgb:bcbcbc'
-declare-option str base09 'rgb:d70000'
-declare-option str base0A 'rgb:d70087'
-declare-option str base0B 'rgb:8700af'
-declare-option str base0C 'rgb:d75f00'
-declare-option str base0D 'rgb:d75f00'
-declare-option str base0E 'rgb:005faf'
-declare-option str base0F 'rgb:005f87'
+declare-option str base00 'rgb:241d1a'
+declare-option str base01 'rgb:362b27'
+declare-option str base02 'rgb:473933'
+declare-option str base03 'rgb:594740'
+declare-option str base04 'rgb:a78e84'
+declare-option str base05 'rgb:b8a59d'
+declare-option str base06 'rgb:cabbb5'
+declare-option str base07 'rgb:dcd2ce'
+declare-option str base08 'rgb:f6998f'
+declare-option str base09 'rgb:ffa888'
+declare-option str base0A 'rgb:ffc37a'
+declare-option str base0B 'rgb:b6c68a'
+declare-option str base0C 'rgb:c0bcdb'
+declare-option str base0D 'rgb:b0a4c3'
+declare-option str base0E 'rgb:d8a2b0'
+declare-option str base0F 'rgb:f1ae97'
 
 # code
 

@@ -4,7 +4,7 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Scheme: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette

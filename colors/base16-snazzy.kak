@@ -4,7 +4,7 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# Scheme: Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette

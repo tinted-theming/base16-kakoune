@@ -4,7 +4,7 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Oskar Liew (https://github.com/OskarLiew)
+# Scheme: Sainnhe Park (https://github.com/sainnhe)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
@@ -15,16 +15,16 @@ declare-option str base02 'rgb:414b50'
 declare-option str base03 'rgb:859289'
 declare-option str base04 'rgb:9da9a0'
 declare-option str base05 'rgb:d3c6aa'
-declare-option str base06 'rgb:e4e1cd'
-declare-option str base07 'rgb:fdf6e3'
-declare-option str base08 'rgb:7fbbb3'
-declare-option str base09 'rgb:d699b6'
+declare-option str base06 'rgb:edeada'
+declare-option str base07 'rgb:fffbef'
+declare-option str base08 'rgb:e67e80'
+declare-option str base09 'rgb:e69875'
 declare-option str base0A 'rgb:dbbc7f'
-declare-option str base0B 'rgb:83c092'
-declare-option str base0C 'rgb:e69875'
-declare-option str base0D 'rgb:a7c080'
-declare-option str base0E 'rgb:e67e80'
-declare-option str base0F 'rgb:4c3743'
+declare-option str base0B 'rgb:a7c080'
+declare-option str base0C 'rgb:83c092'
+declare-option str base0D 'rgb:7fbbb3'
+declare-option str base0E 'rgb:d699b6'
+declare-option str base0F 'rgb:9da9a0'
 
 # code
 
