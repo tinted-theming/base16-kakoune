@@ -4,26 +4,26 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Tiagovla (https://github.com/tiagovla/)
+# Scheme: Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
 declare-option str base00 'rgb:11121d'
-declare-option str base01 'rgb:151621'
-declare-option str base02 'rgb:43444f'
-declare-option str base03 'rgb:393a45'
-declare-option str base04 'rgb:1b1c27'
-declare-option str base05 'rgb:abb2bf'
-declare-option str base06 'rgb:555661'
-declare-option str base07 'rgb:2c2d38'
-declare-option str base08 'rgb:a485dd'
-declare-option str base09 'rgb:a485dd'
-declare-option str base0A 'rgb:7199ee'
-declare-option str base0B 'rgb:d7a65f'
-declare-option str base0C 'rgb:a485dd'
-declare-option str base0D 'rgb:95c561'
-declare-option str base0E 'rgb:ee6d85'
+declare-option str base01 'rgb:212234'
+declare-option str base02 'rgb:212234'
+declare-option str base03 'rgb:353945'
+declare-option str base04 'rgb:4a5057'
+declare-option str base05 'rgb:a0a8cd'
+declare-option str base06 'rgb:abb2bf'
+declare-option str base07 'rgb:bcc2dc'
+declare-option str base08 'rgb:ee6d85'
+declare-option str base09 'rgb:f6955b'
+declare-option str base0A 'rgb:d7a65f'
+declare-option str base0B 'rgb:95c561'
+declare-option str base0C 'rgb:9fbbf3'
+declare-option str base0D 'rgb:7199ee'
+declare-option str base0E 'rgb:a485dd'
 declare-option str base0F 'rgb:773440'
 
 # code
@@ -92,3 +92,78 @@ set-face global Whitespace "%opt{base01},%opt{base00}+f"
 set-face global WrapMarker Whitespace
 set-face global BufferPadding "%opt{base04},%opt{base00}"
 set-face global Search "%opt{base05},%opt{base01}"
+
+# LSP
+
+set-face global ts_attribute                    "%opt{base0D}"
+set-face global ts_comment                      "%opt{base04}+i"
+set-face global ts_conceal                      "%opt{base0E}+i"
+set-face global ts_constant                     "%opt{base09}"
+set-face global ts_constant_builtin_boolean     "%opt{base0C}"
+set-face global ts_constant_character           "%opt{base0A}"
+set-face global ts_constant_macro               "%opt{base0E}"
+set-face global ts_constructor                  "%opt{base0D}"
+set-face global ts_diff_plus                    "%opt{base0B}"
+set-face global ts_diff_minus                   "%opt{base08}"
+set-face global ts_diff_delta                   "%opt{base0D}"
+set-face global ts_diff_delta_moved             "%opt{base0E}"
+set-face global ts_error                        "%opt{base08}+b"
+set-face global ts_function                     "%opt{base0D}"
+set-face global ts_function_builtin             "%opt{base0D}+i"
+set-face global ts_function_macro               "%opt{base0E}"
+set-face global ts_hint                         "%opt{base0D}+b"
+set-face global ts_info                         "%opt{base0B}+b"
+set-face global ts_keyword                      "%opt{base0E}"
+set-face global ts_keyword_conditional          "%opt{base0E}+i"
+set-face global ts_keyword_control_conditional  "%opt{base0E}+i"
+set-face global ts_keyword_control_directive    "%opt{base0E}+i"
+set-face global ts_keyword_control_import       "%opt{base0E}+i"
+set-face global ts_keyword_directive            "%opt{base0E}+i"
+set-face global ts_label                        "%opt{base0E}+i"
+set-face global ts_markup_bold                  "%opt{base09}+b"
+set-face global ts_markup_heading               "%opt{base08}"
+set-face global ts_markup_heading_1             "%opt{base08}"
+set-face global ts_markup_heading_2             "%opt{base0E}"
+set-face global ts_markup_heading_3             "%opt{base0B}"
+set-face global ts_markup_heading_4             "%opt{base0A}"
+set-face global ts_markup_heading_5             "%opt{base07}"
+set-face global ts_markup_heading_6             "%opt{base0C}"
+set-face global ts_markup_heading_marker        "%opt{base09}+b"
+set-face global ts_markup_italic                "%opt{base07}+i"
+set-face global ts_markup_list_checked          "%opt{base0B}"
+set-face global ts_markup_list_numbered         "%opt{base0D}+i"
+set-face global ts_markup_list_unchecked        "%opt{base0C}"
+set-face global ts_markup_list_unnumbered       "%opt{base0E}"
+set-face global ts_markup_link_label            "%opt{base0D}"
+set-face global ts_markup_link_url              "%opt{base0C}+u"
+set-face global ts_markup_link_uri              "%opt{base0C}+u"
+set-face global ts_markup_link_text             "%opt{base0D}"
+set-face global ts_markup_quote                 "%opt{base04}"
+set-face global ts_markup_raw                   "%opt{base0B}"
+set-face global ts_markup_strikethrough         "%opt{base04}+s"
+set-face global ts_namespace                    "%opt{base0D}+i"
+set-face global ts_operator                     "%opt{base0C}"
+set-face global ts_property                     "%opt{base0C}"
+set-face global ts_punctuation                  "%opt{base04}"
+set-face global ts_punctuation_special          "%opt{base0C}"
+set-face global ts_special                      "%opt{base0D}"
+set-face global ts_spell                        "%opt{base0E}"
+set-face global ts_string                       "%opt{base0B}"
+set-face global ts_string_regex                 "%opt{base09}"
+set-face global ts_string_regexp                "%opt{base09}"
+set-face global ts_string_escape                "%opt{base0E}"
+set-face global ts_string_special               "%opt{base0D}"
+set-face global ts_string_special_path          "%opt{base0B}"
+set-face global ts_string_special_symbol        "%opt{base0E}"
+set-face global ts_string_symbol                "%opt{base08}"
+set-face global ts_tag                          "%opt{base0E}"
+set-face global ts_tag_error                    "%opt{base08}"
+set-face global ts_text                         "%opt{base05}"
+set-face global ts_text_title                   "%opt{base0E}"
+set-face global ts_type                         "%opt{base0A}"
+set-face global ts_type_enum_variant            "%opt{base03}"
+set-face global ts_variable                     "%opt{base05}"
+set-face global ts_variable_builtin             "%opt{base08}"
+set-face global ts_variable_other_member        "%opt{base0C}"
+set-face global ts_variable_parameter           "%opt{base0F}+i"
+set-face global ts_warning                      "%opt{base09}+b"
