@@ -1,13 +1,14 @@
 # Base16 for Kakoune
 
-This template maps [Base16 themes][1] to [Kakoune][5] colorschemes.
+This template maps [Tinted Theming] Base16 themes to [Kakoune][5]
+colorschemes.
 
 Have a look at the [gallery][3] page for examples of what the themes
 look like.
 
 ## Installation
 
-### [Plug](https://github.com/andreyorst/plug.kak)
+### [Plug]
 
 ```kak
 plug "tinted-theming/base16-kakoune" theme config %{
@@ -24,7 +25,7 @@ symlink of `colors` directory. It's recommeded that you symlink the
 
 #### Move files
 
-```shell
+```sh
 cd $HOME/.config/kak
 git clone https://github.com/tinted-theming/base16-kakoune.git
 if [ ! -d "./colors" ]; then mkdir "colors"; fi
@@ -34,7 +35,7 @@ rm -rf ./base16-kakoune
 
 #### Symlink method
 
-```shell
+```sh
 cd $HOME/.config
 git clone https://github.com/tinted-theming/base16-kakoune.git
 ln -s $HOME/.config/base16-kakoune/colors $HOME/.config/kak/colors
@@ -42,7 +43,7 @@ ln -s $HOME/.config/base16-kakoune/colors $HOME/.config/kak/colors
 
 And to update the themes:
 
-```shell
+```sh
 cd $HOME/.config/base16-kakoune && git pull
 ```
 
@@ -54,11 +55,11 @@ In command mode, change the colorscheme in Kakoune by typing
 `colorscheme base16-` and an autocomplete list of the colorschemes
 should appear.
 
-### [Base16-shell][2] 
+### tinted-shell
 
-For usage with [base16-shell][2], add the following to your `kakrc` file
+For usage with [tinted-shell], add the following to your `kakrc` file
 and your theme will update whenever you update your theme via
-base16-shell.
+tinted-shell.
 
 ```kak
 evaluate-commands %sh{
@@ -68,11 +69,12 @@ evaluate-commands %sh{
 
 ## Contributing
 
-See [`CONTRIBUTING.md`][4], which contains building and contributing
+See [CONTRIBUTING.md][4], which contains building and contributing
 instructions.
 
-[1]: https://github.com/tinted-theming/home
-[2]: https://github.com/tinted-theming/base16-shell
-[3]: https://tinted-theming.github.io/base16-gallery/
-[4]: CONTRIBUTING.md
-[5]: https://kakoune.org/
+[Tinted Theming]: https://github.com/tinted-theming/home
+[tinted-shell]: https://github.com/tinted-theming/tinted-shell
+[gallery]: https://tinted-theming.github.io/tinted-gallery/
+[CONTRIBUTING.md]: CONTRIBUTING.md
+[Kakoune]: https://kakoune.org/
+[Plug]: https://github.com/andreyorst/plug.kak
