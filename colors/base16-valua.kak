@@ -1,30 +1,30 @@
-# base16-github 
+# base16-valua 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Tinted Theming (https://github.com/tinted-theming)
+# Scheme: Nonetrix (https://github.com/nonetrix)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:eaeef2'
-declare-option str base01 'rgb:d0d7de'
-declare-option str base02 'rgb:afb8c1'
-declare-option str base03 'rgb:8c959f'
-declare-option str base04 'rgb:6e7781'
-declare-option str base05 'rgb:424a53'
-declare-option str base06 'rgb:32383f'
-declare-option str base07 'rgb:1f2328'
-declare-option str base08 'rgb:fa4549'
-declare-option str base09 'rgb:e16f24'
-declare-option str base0A 'rgb:bf8700'
-declare-option str base0B 'rgb:2da44e'
-declare-option str base0C 'rgb:339d9b'
-declare-option str base0D 'rgb:218bff'
-declare-option str base0E 'rgb:a475f9'
-declare-option str base0F 'rgb:4d2d00'
+declare-option str base00 'rgb:131f1f'
+declare-option str base01 'rgb:213132'
+declare-option str base02 'rgb:273d3c'
+declare-option str base03 'rgb:3e5c53'
+declare-option str base04 'rgb:6d9877'
+declare-option str base05 'rgb:98c1a3'
+declare-option str base06 'rgb:a5cbb9'
+declare-option str base07 'rgb:aacbcb'
+declare-option str base08 'rgb:d7586e'
+declare-option str base09 'rgb:e6b466'
+declare-option str base0A 'rgb:dfe754'
+declare-option str base0B 'rgb:59d678'
+declare-option str base0C 'rgb:76dbd2'
+declare-option str base0D 'rgb:4ed2d2'
+declare-option str base0E 'rgb:a874e0'
+declare-option str base0F 'rgb:c05a8f'
 
 # code
 

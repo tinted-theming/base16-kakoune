@@ -1,4 +1,4 @@
-# base16-github 
+# base16-github-dark 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
@@ -9,22 +9,22 @@
 
 # palette
 
-declare-option str base00 'rgb:eaeef2'
-declare-option str base01 'rgb:d0d7de'
-declare-option str base02 'rgb:afb8c1'
-declare-option str base03 'rgb:8c959f'
-declare-option str base04 'rgb:6e7781'
-declare-option str base05 'rgb:424a53'
-declare-option str base06 'rgb:32383f'
-declare-option str base07 'rgb:1f2328'
-declare-option str base08 'rgb:fa4549'
-declare-option str base09 'rgb:e16f24'
-declare-option str base0A 'rgb:bf8700'
-declare-option str base0B 'rgb:2da44e'
-declare-option str base0C 'rgb:339d9b'
-declare-option str base0D 'rgb:218bff'
-declare-option str base0E 'rgb:a475f9'
-declare-option str base0F 'rgb:4d2d00'
+declare-option str base00 'rgb:161b22'
+declare-option str base01 'rgb:30363d'
+declare-option str base02 'rgb:484f58'
+declare-option str base03 'rgb:6e7681'
+declare-option str base04 'rgb:8b949e'
+declare-option str base05 'rgb:c9d1d9'
+declare-option str base06 'rgb:f0f6fc'
+declare-option str base07 'rgb:ffffff'
+declare-option str base08 'rgb:f85149'
+declare-option str base09 'rgb:db6d28'
+declare-option str base0A 'rgb:bb8009'
+declare-option str base0B 'rgb:2ea043'
+declare-option str base0C 'rgb:2a9d9a'
+declare-option str base0D 'rgb:388bfd'
+declare-option str base0E 'rgb:a371f7'
+declare-option str base0F 'rgb:3d2f00'
 
 # code
 

@@ -1,30 +1,30 @@
-# base16-github 
+# base16-gruvbox-light 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Tinted Theming (https://github.com/tinted-theming)
+# Scheme: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:eaeef2'
-declare-option str base01 'rgb:d0d7de'
-declare-option str base02 'rgb:afb8c1'
-declare-option str base03 'rgb:8c959f'
-declare-option str base04 'rgb:6e7781'
-declare-option str base05 'rgb:424a53'
-declare-option str base06 'rgb:32383f'
-declare-option str base07 'rgb:1f2328'
-declare-option str base08 'rgb:fa4549'
-declare-option str base09 'rgb:e16f24'
-declare-option str base0A 'rgb:bf8700'
-declare-option str base0B 'rgb:2da44e'
-declare-option str base0C 'rgb:339d9b'
-declare-option str base0D 'rgb:218bff'
-declare-option str base0E 'rgb:a475f9'
-declare-option str base0F 'rgb:4d2d00'
+declare-option str base00 'rgb:fbf1c7'
+declare-option str base01 'rgb:ebdbb2'
+declare-option str base02 'rgb:d5c4a1'
+declare-option str base03 'rgb:bdae93'
+declare-option str base04 'rgb:7c6f64'
+declare-option str base05 'rgb:3c3836'
+declare-option str base06 'rgb:282828'
+declare-option str base07 'rgb:1d2021'
+declare-option str base08 'rgb:cc241d'
+declare-option str base09 'rgb:d65d0e'
+declare-option str base0A 'rgb:d79921'
+declare-option str base0B 'rgb:98971a'
+declare-option str base0C 'rgb:689d6a'
+declare-option str base0D 'rgb:458588'
+declare-option str base0E 'rgb:b16286'
+declare-option str base0F 'rgb:9d0006'
 
 # code
 

@@ -1,30 +1,30 @@
-# base16-github 
+# base16-everforest-dark-soft 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Tinted Theming (https://github.com/tinted-theming)
+# Scheme: Sainnhe Park (https://github.com/sainnhe)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:eaeef2'
-declare-option str base01 'rgb:d0d7de'
-declare-option str base02 'rgb:afb8c1'
-declare-option str base03 'rgb:8c959f'
-declare-option str base04 'rgb:6e7781'
-declare-option str base05 'rgb:424a53'
-declare-option str base06 'rgb:32383f'
-declare-option str base07 'rgb:1f2328'
-declare-option str base08 'rgb:fa4549'
-declare-option str base09 'rgb:e16f24'
-declare-option str base0A 'rgb:bf8700'
-declare-option str base0B 'rgb:2da44e'
-declare-option str base0C 'rgb:339d9b'
-declare-option str base0D 'rgb:218bff'
-declare-option str base0E 'rgb:a475f9'
-declare-option str base0F 'rgb:4d2d00'
+declare-option str base00 'rgb:333c43'
+declare-option str base01 'rgb:3a464c'
+declare-option str base02 'rgb:4d5960'
+declare-option str base03 'rgb:859289'
+declare-option str base04 'rgb:9da9a0'
+declare-option str base05 'rgb:d3c6aa'
+declare-option str base06 'rgb:ddd8be'
+declare-option str base07 'rgb:f3ead3'
+declare-option str base08 'rgb:e67e80'
+declare-option str base09 'rgb:e69875'
+declare-option str base0A 'rgb:dbbc7f'
+declare-option str base0B 'rgb:a7c080'
+declare-option str base0C 'rgb:83c092'
+declare-option str base0D 'rgb:7fbbb3'
+declare-option str base0E 'rgb:d699b6'
+declare-option str base0F 'rgb:9da9a0'
 
 # code
 

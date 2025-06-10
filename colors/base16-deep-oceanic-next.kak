@@ -4,27 +4,27 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+# Scheme: spearkkk (https://github.com/spearkkk)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:003b46'
-declare-option str base01 'rgb:004f5e'
-declare-option str base02 'rgb:006374'
-declare-option str base03 'rgb:007a8a'
+declare-option str base00 'rgb:001c1f'
+declare-option str base01 'rgb:002931'
+declare-option str base02 'rgb:003640'
+declare-option str base03 'rgb:004852'
 declare-option str base04 'rgb:0093a3'
-declare-option str base05 'rgb:dce3e8'
-declare-option str base06 'rgb:e6ebf0'
-declare-option str base07 'rgb:f0f5f5'
-declare-option str base08 'rgb:e6454b'
-declare-option str base09 'rgb:ff6a4b'
-declare-option str base0A 'rgb:ffcc66'
-declare-option str base0B 'rgb:85b57a'
-declare-option str base0C 'rgb:4da6a6'
-declare-option str base0D 'rgb:3a82e6'
-declare-option str base0E 'rgb:8c4de6'
-declare-option str base0F 'rgb:e673a3'
+declare-option str base05 'rgb:d4e1e8'
+declare-option str base06 'rgb:e0e9ef'
+declare-option str base07 'rgb:f2f7f9'
+declare-option str base08 'rgb:d3464d'
+declare-option str base09 'rgb:e37552'
+declare-option str base0A 'rgb:f3b863'
+declare-option str base0B 'rgb:63b784'
+declare-option str base0C 'rgb:4fb7ae'
+declare-option str base0D 'rgb:568ccf'
+declare-option str base0E 'rgb:8b66d6'
+declare-option str base0F 'rgb:d0658e'
 
 # code
 

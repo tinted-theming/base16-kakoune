@@ -1,30 +1,30 @@
-# base16-github 
+# base16-digital-rain 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Tinted Theming (https://github.com/tinted-theming)
+# Scheme: Nathan Byrd (https://github.com/cognitivegears)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:eaeef2'
-declare-option str base01 'rgb:d0d7de'
-declare-option str base02 'rgb:afb8c1'
-declare-option str base03 'rgb:8c959f'
-declare-option str base04 'rgb:6e7781'
-declare-option str base05 'rgb:424a53'
-declare-option str base06 'rgb:32383f'
-declare-option str base07 'rgb:1f2328'
-declare-option str base08 'rgb:fa4549'
-declare-option str base09 'rgb:e16f24'
-declare-option str base0A 'rgb:bf8700'
-declare-option str base0B 'rgb:2da44e'
-declare-option str base0C 'rgb:339d9b'
-declare-option str base0D 'rgb:218bff'
-declare-option str base0E 'rgb:a475f9'
-declare-option str base0F 'rgb:4d2d00'
+declare-option str base00 'rgb:000000'
+declare-option str base01 'rgb:4a806c'
+declare-option str base02 'rgb:4a8d7e'
+declare-option str base03 'rgb:7c8d7c'
+declare-option str base04 'rgb:919893'
+declare-option str base05 'rgb:00ff00'
+declare-option str base06 'rgb:c4cec4'
+declare-option str base07 'rgb:d8e2dc'
+declare-option str base08 'rgb:c85a46'
+declare-option str base09 'rgb:c86428'
+declare-option str base0A 'rgb:a67a50'
+declare-option str base0B 'rgb:64c83c'
+declare-option str base0C 'rgb:468c78'
+declare-option str base0D 'rgb:5482af'
+declare-option str base0E 'rgb:9472b4'
+declare-option str base0F 'rgb:b37c5e'
 
 # code
 

@@ -1,30 +1,30 @@
-# base16-github 
+# base16-kanagawa-dragon 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Tinted Theming (https://github.com/tinted-theming)
+# Scheme: Tommaso Laurenzi (https://github.com/rebelot)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:eaeef2'
-declare-option str base01 'rgb:d0d7de'
-declare-option str base02 'rgb:afb8c1'
-declare-option str base03 'rgb:8c959f'
-declare-option str base04 'rgb:6e7781'
-declare-option str base05 'rgb:424a53'
-declare-option str base06 'rgb:32383f'
-declare-option str base07 'rgb:1f2328'
-declare-option str base08 'rgb:fa4549'
-declare-option str base09 'rgb:e16f24'
-declare-option str base0A 'rgb:bf8700'
-declare-option str base0B 'rgb:2da44e'
-declare-option str base0C 'rgb:339d9b'
-declare-option str base0D 'rgb:218bff'
-declare-option str base0E 'rgb:a475f9'
-declare-option str base0F 'rgb:4d2d00'
+declare-option str base00 'rgb:0d0c0c'
+declare-option str base01 'rgb:1d1c19'
+declare-option str base02 'rgb:282727'
+declare-option str base03 'rgb:737c73'
+declare-option str base04 'rgb:a6a69c'
+declare-option str base05 'rgb:c5c9c5'
+declare-option str base06 'rgb:7a8382'
+declare-option str base07 'rgb:c5c9c5'
+declare-option str base08 'rgb:c4746e'
+declare-option str base09 'rgb:b98d7b'
+declare-option str base0A 'rgb:c4b28a'
+declare-option str base0B 'rgb:87a987'
+declare-option str base0C 'rgb:8ea4a2'
+declare-option str base0D 'rgb:8ba4b0'
+declare-option str base0E 'rgb:8992a7'
+declare-option str base0F 'rgb:a292a3'
 
 # code
 

@@ -4,7 +4,7 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Fergus Collins (https://github.com/C-Fergus)
+# Scheme: Fergus Collins (https://github.com/ferguscollins)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
