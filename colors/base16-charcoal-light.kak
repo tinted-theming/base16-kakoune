@@ -1,30 +1,30 @@
-# base16-tomorrow 
+# base16-charcoal-light 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Chris Kempson (http://chriskempson.com)
+# Scheme: Mubin Muhammad (https://github.com/mubin6th)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:ffffff'
-declare-option str base01 'rgb:e0e0e0'
-declare-option str base02 'rgb:c5c8c6'
-declare-option str base03 'rgb:b4b7b4'
-declare-option str base04 'rgb:969896'
-declare-option str base05 'rgb:373b41'
-declare-option str base06 'rgb:282a2e'
-declare-option str base07 'rgb:1d1f21'
-declare-option str base08 'rgb:c82829'
-declare-option str base09 'rgb:f5871f'
-declare-option str base0A 'rgb:eab700'
-declare-option str base0B 'rgb:718c00'
-declare-option str base0C 'rgb:3e999f'
-declare-option str base0D 'rgb:4271ae'
-declare-option str base0E 'rgb:8959a8'
-declare-option str base0F 'rgb:a3685a'
+declare-option str base00 'rgb:d6b891'
+declare-option str base01 'rgb:c0a179'
+declare-option str base02 'rgb:a28662'
+declare-option str base03 'rgb:887254'
+declare-option str base04 'rgb:1e1812'
+declare-option str base05 'rgb:35291d'
+declare-option str base06 'rgb:413325'
+declare-option str base07 'rgb:d6b891'
+declare-option str base08 'rgb:413325'
+declare-option str base09 'rgb:120f09'
+declare-option str base0A 'rgb:292016'
+declare-option str base0B 'rgb:120f09'
+declare-option str base0C 'rgb:413325'
+declare-option str base0D 'rgb:120f09'
+declare-option str base0E 'rgb:292016'
+declare-option str base0F 'rgb:66553f'
 
 # code
 
