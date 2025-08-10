@@ -1,30 +1,30 @@
-# base16-ayu-mirage 
+# base16-linux-vt 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
+# Scheme: j-c-m (https://github.com/j-c-m/)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:1f2430'
-declare-option str base01 'rgb:242936'
-declare-option str base02 'rgb:323844'
-declare-option str base03 'rgb:4a5059'
-declare-option str base04 'rgb:707a8c'
-declare-option str base05 'rgb:cccac2'
-declare-option str base06 'rgb:d9d7ce'
-declare-option str base07 'rgb:f3f4f5'
-declare-option str base08 'rgb:f28779'
-declare-option str base09 'rgb:ffad66'
-declare-option str base0A 'rgb:ffd173'
-declare-option str base0B 'rgb:d5ff80'
-declare-option str base0C 'rgb:95e6cb'
-declare-option str base0D 'rgb:73d0ff'
-declare-option str base0E 'rgb:d4bfff'
-declare-option str base0F 'rgb:f27983'
+declare-option str base00 'rgb:000000'
+declare-option str base01 'rgb:333333'
+declare-option str base02 'rgb:444444'
+declare-option str base03 'rgb:555555'
+declare-option str base04 'rgb:888888'
+declare-option str base05 'rgb:aaaaaa'
+declare-option str base06 'rgb:cccccc'
+declare-option str base07 'rgb:ffffff'
+declare-option str base08 'rgb:aa0000'
+declare-option str base09 'rgb:ff5555'
+declare-option str base0A 'rgb:ffff55'
+declare-option str base0B 'rgb:00aa00'
+declare-option str base0C 'rgb:00aaaa'
+declare-option str base0D 'rgb:5555ff'
+declare-option str base0E 'rgb:ff55ff'
+declare-option str base0F 'rgb:aa5500'
 
 # code
 

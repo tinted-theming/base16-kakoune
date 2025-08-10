@@ -4,27 +4,27 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:0f1419'
+declare-option str base00 'rgb:0b0e14'
 declare-option str base01 'rgb:131721'
-declare-option str base02 'rgb:272d38'
+declare-option str base02 'rgb:202229'
 declare-option str base03 'rgb:3e4b59'
 declare-option str base04 'rgb:bfbdb6'
 declare-option str base05 'rgb:e6e1cf'
-declare-option str base06 'rgb:e6e1cf'
-declare-option str base07 'rgb:f3f4f5'
+declare-option str base06 'rgb:ece8db'
+declare-option str base07 'rgb:f2f0e7'
 declare-option str base08 'rgb:f07178'
 declare-option str base09 'rgb:ff8f40'
 declare-option str base0A 'rgb:ffb454'
-declare-option str base0B 'rgb:b8cc52'
+declare-option str base0B 'rgb:aad94c'
 declare-option str base0C 'rgb:95e6cb'
 declare-option str base0D 'rgb:59c2ff'
 declare-option str base0E 'rgb:d2a6ff'
-declare-option str base0F 'rgb:e6b673'
+declare-option str base0F 'rgb:e6b450'
 
 # code
 
