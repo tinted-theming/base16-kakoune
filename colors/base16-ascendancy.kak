@@ -1,30 +1,30 @@
-# base16-blueish 
+# base16-ascendancy 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Ben Mayoras
+# Scheme: EmergentMind (https://github.com/emergentmind/ascendancy-scheme)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:182430'
-declare-option str base01 'rgb:243c54'
-declare-option str base02 'rgb:46290a'
-declare-option str base03 'rgb:616d78'
-declare-option str base04 'rgb:74afe7'
-declare-option str base05 'rgb:c8e1f8'
-declare-option str base06 'rgb:ddeaf6'
-declare-option str base07 'rgb:8f98a0'
-declare-option str base08 'rgb:4ce587'
-declare-option str base09 'rgb:f6a85c'
-declare-option str base0A 'rgb:f6cd5c'
-declare-option str base0B 'rgb:c3e88d'
-declare-option str base0C 'rgb:5fd1ff'
-declare-option str base0D 'rgb:82aaff'
-declare-option str base0E 'rgb:ff84dd'
-declare-option str base0F 'rgb:bbd2e8'
+declare-option str base00 'rgb:282828'
+declare-option str base01 'rgb:212f3d'
+declare-option str base02 'rgb:504945'
+declare-option str base03 'rgb:928374'
+declare-option str base04 'rgb:bdae93'
+declare-option str base05 'rgb:d5c7a1'
+declare-option str base06 'rgb:ebdbb2'
+declare-option str base07 'rgb:fbf1c7'
+declare-option str base08 'rgb:c03900'
+declare-option str base09 'rgb:fe8019'
+declare-option str base0A 'rgb:ffcc1b'
+declare-option str base0B 'rgb:b8bb26'
+declare-option str base0C 'rgb:8f3f71'
+declare-option str base0D 'rgb:458588'
+declare-option str base0E 'rgb:fabd2f'
+declare-option str base0F 'rgb:b59b4d'
 
 # code
 

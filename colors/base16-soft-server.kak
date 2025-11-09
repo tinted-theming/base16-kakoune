@@ -1,30 +1,30 @@
-# base16-blueish 
+# base16-soft-server 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Ben Mayoras
+# Scheme: FredHappyface (https://github.com/fredHappyface)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:182430'
-declare-option str base01 'rgb:243c54'
-declare-option str base02 'rgb:46290a'
-declare-option str base03 'rgb:616d78'
-declare-option str base04 'rgb:74afe7'
-declare-option str base05 'rgb:c8e1f8'
-declare-option str base06 'rgb:ddeaf6'
-declare-option str base07 'rgb:8f98a0'
-declare-option str base08 'rgb:4ce587'
-declare-option str base09 'rgb:f6a85c'
-declare-option str base0A 'rgb:f6cd5c'
-declare-option str base0B 'rgb:c3e88d'
-declare-option str base0C 'rgb:5fd1ff'
-declare-option str base0D 'rgb:82aaff'
-declare-option str base0E 'rgb:ff84dd'
-declare-option str base0F 'rgb:bbd2e8'
+declare-option str base00 'rgb:211e2a'
+declare-option str base01 'rgb:2c2737'
+declare-option str base02 'rgb:3f3951'
+declare-option str base03 'rgb:6e6780'
+declare-option str base04 'rgb:8a829e'
+declare-option str base05 'rgb:e4dee9'
+declare-option str base06 'rgb:f2e8f0'
+declare-option str base07 'rgb:ffffff'
+declare-option str base08 'rgb:e965a5'
+declare-option str base09 'rgb:f4b870'
+declare-option str base0A 'rgb:ebde76'
+declare-option str base0B 'rgb:b1f2a7'
+declare-option str base0C 'rgb:b3f4f3'
+declare-option str base0D 'rgb:95a6f4'
+declare-option str base0E 'rgb:ff79c6'
+declare-option str base0F 'rgb:bd93f9'
 
 # code
 

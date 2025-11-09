@@ -4,7 +4,7 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: ed (https://codeberg.org/ed)
+# Scheme: ed (https://codeberg.org/ed), Tinted Theming (https://github.com/tinted-theming)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
@@ -18,13 +18,13 @@ declare-option str base05 'rgb:606bac'
 declare-option str base06 'rgb:7986c5'
 declare-option str base07 'rgb:9aaae5'
 declare-option str base08 'rgb:f768a3'
-declare-option str base09 'rgb:f768a3'
-declare-option str base0A 'rgb:faaea2'
-declare-option str base0B 'rgb:faaea2'
-declare-option str base0C 'rgb:258fc4'
+declare-option str base09 'rgb:f78968'
+declare-option str base0A 'rgb:f7d668'
+declare-option str base0B 'rgb:a2faa8'
+declare-option str base0C 'rgb:a2faf0'
 declare-option str base0D 'rgb:258fc4'
-declare-option str base0E 'rgb:f768a3'
-declare-option str base0F 'rgb:f768a3'
+declare-option str base0E 'rgb:c368f7'
+declare-option str base0F 'rgb:b85600'
 
 # code
 
