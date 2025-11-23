@@ -9,22 +9,22 @@
 
 # palette
 
-declare-option str base00 'rgb:120f09'
-declare-option str base01 'rgb:1e1812'
-declare-option str base02 'rgb:35291d'
-declare-option str base03 'rgb:66553f'
-declare-option str base04 'rgb:a28662'
-declare-option str base05 'rgb:c0a179'
-declare-option str base06 'rgb:d6b891'
-declare-option str base07 'rgb:292016'
-declare-option str base08 'rgb:887254'
-declare-option str base09 'rgb:d6b891'
-declare-option str base0A 'rgb:c0a179'
-declare-option str base0B 'rgb:927a60'
-declare-option str base0C 'rgb:a28662'
-declare-option str base0D 'rgb:d6b891'
-declare-option str base0E 'rgb:a28662'
-declare-option str base0F 'rgb:887254'
+declare-option str base00 'rgb:0f0b05'
+declare-option str base01 'rgb:231b0e'
+declare-option str base02 'rgb:2a2012'
+declare-option str base03 'rgb:57462c'
+declare-option str base04 'rgb:a88c62'
+declare-option str base05 'rgb:c3a983'
+declare-option str base06 'rgb:dec8a7'
+declare-option str base07 'rgb:231b0e'
+declare-option str base08 'rgb:a88c62'
+declare-option str base09 'rgb:dec8a7'
+declare-option str base0A 'rgb:dec8a7'
+declare-option str base0B 'rgb:dec8a7'
+declare-option str base0C 'rgb:dec8a7'
+declare-option str base0D 'rgb:c3a983'
+declare-option str base0E 'rgb:a88c62'
+declare-option str base0F 'rgb:876e48'
 
 # code
 
