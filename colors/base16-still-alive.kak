@@ -4,26 +4,26 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Derrick McKee (derrick.mckee@gmail.com)
+# Scheme: Derrick McKee (derrick.mckee@gmail.com), Tinted Theming (https://github.com/tinted-theming)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
 declare-option str base00 'rgb:f0f0f0'
-declare-option str base01 'rgb:f0d848'
-declare-option str base02 'rgb:fff018'
-declare-option str base03 'rgb:f01818'
-declare-option str base04 'rgb:f00000'
-declare-option str base05 'rgb:d80000'
-declare-option str base06 'rgb:489000'
-declare-option str base07 'rgb:30a860'
-declare-option str base08 'rgb:487830'
-declare-option str base09 'rgb:183048'
-declare-option str base0A 'rgb:426395'
-declare-option str base0B 'rgb:5c5c6a'
-declare-option str base0C 'rgb:2c3c57'
-declare-option str base0D 'rgb:001878'
-declare-option str base0E 'rgb:900000'
+declare-option str base01 'rgb:d6d6d6'
+declare-option str base02 'rgb:bdbdbd'
+declare-option str base03 'rgb:a3a3a3'
+declare-option str base04 'rgb:605758'
+declare-option str base05 'rgb:4c383b'
+declare-option str base06 'rgb:331f21'
+declare-option str base07 'rgb:140c0d'
+declare-option str base08 'rgb:d80000'
+declare-option str base09 'rgb:f0d848'
+declare-option str base0A 'rgb:fff018'
+declare-option str base0B 'rgb:30a860'
+declare-option str base0C 'rgb:36d3ff'
+declare-option str base0D 'rgb:365eff'
+declare-option str base0E 'rgb:9036ff'
 declare-option str base0F 'rgb:140c0d'
 
 # code

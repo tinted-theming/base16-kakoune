@@ -4,19 +4,19 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: cjayross (https://github.com/cjayross)
+# Scheme: cjayross (https://github.com/cjayross), Tinted Theming (https://github.com/tinted-theming)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
 declare-option str base00 'rgb:fafafa'
-declare-option str base01 'rgb:7c9f4b'
-declare-option str base02 'rgb:d69822'
-declare-option str base03 'rgb:5e646f'
-declare-option str base04 'rgb:6587bf'
-declare-option str base05 'rgb:5e646f'
-declare-option str base06 'rgb:b870ce'
-declare-option str base07 'rgb:5e646f'
+declare-option str base01 'rgb:e3e5e8'
+declare-option str base02 'rgb:acb1b9'
+declare-option str base03 'rgb:9197a1'
+declare-option str base04 'rgb:5e646f'
+declare-option str base05 'rgb:474752'
+declare-option str base06 'rgb:3a3a46'
+declare-option str base07 'rgb:2e2e38'
 declare-option str base08 'rgb:db7070'
 declare-option str base09 'rgb:eba31a'
 declare-option str base0A 'rgb:ebcc1a'

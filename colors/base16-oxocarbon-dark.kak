@@ -4,7 +4,7 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: shaunsingh/IBM
+# Scheme: shaunsingh/IBM, Tinted Theming (https://github.com/tinted-theming)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
@@ -17,12 +17,12 @@ declare-option str base04 'rgb:dde1e6'
 declare-option str base05 'rgb:f2f4f8'
 declare-option str base06 'rgb:ffffff'
 declare-option str base07 'rgb:08bdba'
-declare-option str base08 'rgb:3ddbd9'
-declare-option str base09 'rgb:78a9ff'
-declare-option str base0A 'rgb:ee5396'
-declare-option str base0B 'rgb:33b1ff'
-declare-option str base0C 'rgb:ff7eb6'
-declare-option str base0D 'rgb:42be65'
+declare-option str base08 'rgb:ee5396'
+declare-option str base09 'rgb:ff7eb6'
+declare-option str base0A 'rgb:ff6f00'
+declare-option str base0B 'rgb:42be65'
+declare-option str base0C 'rgb:3ddbd9'
+declare-option str base0D 'rgb:33b1ff'
 declare-option str base0E 'rgb:be95ff'
 declare-option str base0F 'rgb:82cfff'
 

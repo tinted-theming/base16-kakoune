@@ -4,27 +4,27 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Geoffrey Teale (tealeg@gmail.com)
+# Scheme: Geoffrey Teale (tealeg@gmail.com), Tinted Theming (https://github.com/tinted-theming)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
 declare-option str base00 'rgb:feffff'
-declare-option str base01 'rgb:392551'
-declare-option str base02 'rgb:7b6d8b'
+declare-option str base01 'rgb:dedae2'
+declare-option str base02 'rgb:bdb6c5'
 declare-option str base03 'rgb:9c92a8'
-declare-option str base04 'rgb:ddd6e5'
+declare-option str base04 'rgb:7b6d8b'
 declare-option str base05 'rgb:5a496e'
-declare-option str base06 'rgb:470546'
+declare-option str base06 'rgb:392551'
 declare-option str base07 'rgb:190134'
-declare-option str base08 'rgb:27d9d5'
-declare-option str base09 'rgb:bdb6c5'
-declare-option str base0A 'rgb:5ba2b6'
-declare-option str base0B 'rgb:f80059'
-declare-option str base0C 'rgb:c33678'
-declare-option str base0D 'rgb:47f9f5'
-declare-option str base0E 'rgb:bd0152'
-declare-option str base0F 'rgb:dedae2'
+declare-option str base08 'rgb:f80059'
+declare-option str base09 'rgb:bd0152'
+declare-option str base0A 'rgb:bd9701'
+declare-option str base0B 'rgb:5bb66a'
+declare-option str base0C 'rgb:47f9f5'
+declare-option str base0D 'rgb:5ba2b6'
+declare-option str base0E 'rgb:8f6c97'
+declare-option str base0F 'rgb:58425d'
 
 # code
 

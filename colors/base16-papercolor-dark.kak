@@ -4,27 +4,27 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Scheme: Jon Leopard (http://github.com/jonleopard), Tinted Theming (https://github.com/tinted-theming), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
 declare-option str base00 'rgb:1c1c1c'
-declare-option str base01 'rgb:af005f'
-declare-option str base02 'rgb:5faf00'
-declare-option str base03 'rgb:d7af5f'
-declare-option str base04 'rgb:5fafd7'
-declare-option str base05 'rgb:808080'
-declare-option str base06 'rgb:d7875f'
+declare-option str base01 'rgb:363636'
+declare-option str base02 'rgb:424242'
+declare-option str base03 'rgb:585858'
+declare-option str base04 'rgb:808080'
+declare-option str base05 'rgb:9e9e9e'
+declare-option str base06 'rgb:b8b8b8'
 declare-option str base07 'rgb:d0d0d0'
-declare-option str base08 'rgb:585858'
-declare-option str base09 'rgb:5faf5f'
-declare-option str base0A 'rgb:afd700'
-declare-option str base0B 'rgb:af87d7'
-declare-option str base0C 'rgb:ffaf00'
-declare-option str base0D 'rgb:ff5faf'
-declare-option str base0E 'rgb:00afaf'
-declare-option str base0F 'rgb:5f8787'
+declare-option str base08 'rgb:ff5faf'
+declare-option str base09 'rgb:d7af5f'
+declare-option str base0A 'rgb:ffaf00'
+declare-option str base0B 'rgb:5faf5f'
+declare-option str base0C 'rgb:00afaf'
+declare-option str base0D 'rgb:5fafd7'
+declare-option str base0E 'rgb:af87d7'
+declare-option str base0F 'rgb:af005f'
 
 # code
 
