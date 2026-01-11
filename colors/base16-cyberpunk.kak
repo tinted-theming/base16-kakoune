@@ -1,30 +1,30 @@
-# base16-catppuccin-frappe 
+# base16-cyberpunk 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: https://github.com/catppuccin/catppuccin
+# Scheme: benjujo
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:303446'
-declare-option str base01 'rgb:414559'
-declare-option str base02 'rgb:51576d'
-declare-option str base03 'rgb:737994'
-declare-option str base04 'rgb:a5adce'
-declare-option str base05 'rgb:c6d0f5'
-declare-option str base06 'rgb:f2d5cf'
-declare-option str base07 'rgb:babbf1'
-declare-option str base08 'rgb:e78284'
-declare-option str base09 'rgb:ef9f76'
-declare-option str base0A 'rgb:e5c890'
-declare-option str base0B 'rgb:a6d189'
-declare-option str base0C 'rgb:81c8be'
-declare-option str base0D 'rgb:8caaee'
-declare-option str base0E 'rgb:ca9ee6'
-declare-option str base0F 'rgb:eebebe'
+declare-option str base00 'rgb:000000'
+declare-option str base01 'rgb:2b2b2b'
+declare-option str base02 'rgb:383838'
+declare-option str base03 'rgb:4f4f4f'
+declare-option str base04 'rgb:8b8989'
+declare-option str base05 'rgb:dcdccc'
+declare-option str base06 'rgb:f8f8f8'
+declare-option str base07 'rgb:ffffff'
+declare-option str base08 'rgb:ff0000'
+declare-option str base09 'rgb:ffa500'
+declare-option str base0A 'rgb:ffff00'
+declare-option str base0B 'rgb:61ce3c'
+declare-option str base0C 'rgb:93e0e3'
+declare-option str base0D 'rgb:4c83ff'
+declare-option str base0E 'rgb:ff1493'
+declare-option str base0F 'rgb:ff8c00'
 
 # code
 

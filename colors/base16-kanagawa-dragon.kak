@@ -4,27 +4,27 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Tommaso Laurenzi (https://github.com/rebelot)
+# Scheme: Stefan Weigl-Bosker (https://github.com/sweiglbosker), Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:0d0c0c'
-declare-option str base01 'rgb:1d1c19'
-declare-option str base02 'rgb:282727'
-declare-option str base03 'rgb:737c73'
-declare-option str base04 'rgb:a6a69c'
+declare-option str base00 'rgb:181616'
+declare-option str base01 'rgb:282727'
+declare-option str base02 'rgb:393836'
+declare-option str base03 'rgb:625e5a'
+declare-option str base04 'rgb:737c73'
 declare-option str base05 'rgb:c5c9c5'
-declare-option str base06 'rgb:7a8382'
+declare-option str base06 'rgb:c8c093'
 declare-option str base07 'rgb:c5c9c5'
 declare-option str base08 'rgb:c4746e'
-declare-option str base09 'rgb:b98d7b'
+declare-option str base09 'rgb:b6927b'
 declare-option str base0A 'rgb:c4b28a'
-declare-option str base0B 'rgb:87a987'
+declare-option str base0B 'rgb:8a9a7b'
 declare-option str base0C 'rgb:8ea4a2'
 declare-option str base0D 'rgb:8ba4b0'
-declare-option str base0E 'rgb:8992a7'
-declare-option str base0F 'rgb:a292a3'
+declare-option str base0E 'rgb:a292a3'
+declare-option str base0F 'rgb:b98d7b'
 
 # code
 
