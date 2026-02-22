@@ -10,10 +10,10 @@
 # palette
 
 declare-option str base00 'rgb:24273a'
-declare-option str base01 'rgb:363a4f'
-declare-option str base02 'rgb:494d64'
-declare-option str base03 'rgb:6e738d'
-declare-option str base04 'rgb:a5adcb'
+declare-option str base01 'rgb:1e2030'
+declare-option str base02 'rgb:363a4f'
+declare-option str base03 'rgb:494d64'
+declare-option str base04 'rgb:5b6078'
 declare-option str base05 'rgb:cad3f5'
 declare-option str base06 'rgb:f4dbd6'
 declare-option str base07 'rgb:b7bdf8'
