@@ -1,30 +1,30 @@
-# base16-embers-light 
+# base16-everforest-light-medium 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Jannik Siebert (https://github.com/janniks)
+# Scheme: Márcio Sobel (https://github.com/marciosobel)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:dbd6d1'
-declare-option str base01 'rgb:beb6ae'
-declare-option str base02 'rgb:a39a90'
-declare-option str base03 'rgb:8a8075'
-declare-option str base04 'rgb:5a5047'
-declare-option str base05 'rgb:433b32'
-declare-option str base06 'rgb:2c2620'
-declare-option str base07 'rgb:16130f'
-declare-option str base08 'rgb:826d57'
-declare-option str base09 'rgb:828257'
-declare-option str base0A 'rgb:6d8257'
-declare-option str base0B 'rgb:57826d'
-declare-option str base0C 'rgb:576d82'
-declare-option str base0D 'rgb:6d5782'
-declare-option str base0E 'rgb:82576d'
-declare-option str base0F 'rgb:825757'
+declare-option str base00 'rgb:fdf6e3'
+declare-option str base01 'rgb:f4f0d9'
+declare-option str base02 'rgb:e6e2cc'
+declare-option str base03 'rgb:939f91'
+declare-option str base04 'rgb:829181'
+declare-option str base05 'rgb:5c6a72'
+declare-option str base06 'rgb:475258'
+declare-option str base07 'rgb:2d353b'
+declare-option str base08 'rgb:f85552'
+declare-option str base09 'rgb:f57d26'
+declare-option str base0A 'rgb:dfa000'
+declare-option str base0B 'rgb:8da101'
+declare-option str base0C 'rgb:35a77c'
+declare-option str base0D 'rgb:3a94c5'
+declare-option str base0E 'rgb:df69ba'
+declare-option str base0F 'rgb:829181'
 
 # code
 
