@@ -1,30 +1,30 @@
-# base16-dracula 
+# base16-swamp-light 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: clach04 (https://github.com/clach04)
+# Scheme: Masroof Maindak (https://github.com/masroof-maindak)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:282a36'
-declare-option str base01 'rgb:21222c'
-declare-option str base02 'rgb:44475a'
-declare-option str base03 'rgb:6272a4'
-declare-option str base04 'rgb:9ea8c7'
-declare-option str base05 'rgb:f8f8f2'
-declare-option str base06 'rgb:f8f8f2'
-declare-option str base07 'rgb:ffffff'
-declare-option str base08 'rgb:ff5555'
-declare-option str base09 'rgb:ffb86c'
-declare-option str base0A 'rgb:f1fa8c'
-declare-option str base0B 'rgb:50fa7b'
-declare-option str base0C 'rgb:8be9fd'
-declare-option str base0D 'rgb:bd93f9'
-declare-option str base0E 'rgb:ff79c6'
-declare-option str base0F 'rgb:993333'
+declare-option str base00 'rgb:f1e3d1'
+declare-option str base01 'rgb:ddcebc'
+declare-option str base02 'rgb:c9b9a7'
+declare-option str base03 'rgb:b5a492'
+declare-option str base04 'rgb:a0907d'
+declare-option str base05 'rgb:64513e'
+declare-option str base06 'rgb:786653'
+declare-option str base07 'rgb:8c7b68'
+declare-option str base08 'rgb:d09700'
+declare-option str base09 'rgb:64513e'
+declare-option str base0A 'rgb:993333'
+declare-option str base0B 'rgb:908d6a'
+declare-option str base0C 'rgb:d09700'
+declare-option str base0D 'rgb:bf7979'
+declare-option str base0E 'rgb:9e5581'
+declare-option str base0F 'rgb:75858c'
 
 # code
 
