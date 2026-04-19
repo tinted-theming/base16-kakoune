@@ -1,3 +1,14 @@
-default: 
-    extension: .kak
-    output: colors
+base16:
+    filename: "colors/{{ scheme-system }}-{{ scheme-slug }}.kak"
+    supported-systems: [base16]
+
+base24:
+    filename: "colors/{{ scheme-system }}-{{ scheme-slug }}.kak"
+    supported-systems: [base24]
+
+tinted8:
+    filename: "colors/{{ scheme.system }}-{{ scheme.slug }}.kak"
+    supported-systems: [tinted8]
+    supports:
+        tinted8-builder: "~0.2.0"
+        tinted8-styling: "~0.2.0"
