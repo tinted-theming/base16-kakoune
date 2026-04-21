@@ -16,6 +16,9 @@ declare-option str fg_light 'rgb:{{ui.global.foreground.light.hex}}'
 declare-option str fg_dark 'rgb:{{ui.global.foreground.dark.hex}}'
 declare-option str sel_bg 'rgb:{{ui.selection.background.hex}}'
 declare-option str comment 'rgb:{{syntax.comment.default.hex}}'
+declare-option str cursor_bg 'rgb:{{ui.cursor.normal.background.hex}}'
+declare-option str cursor_fg 'rgb:{{ui.cursor.normal.foreground.hex}}'
+declare-option str link_fg 'rgb:{{ui.link.normal.foreground.hex}}'
 declare-option str red 'rgb:{{red.normal.hex}}'
 declare-option str red_bright 'rgb:{{red.bright.hex}}'
 declare-option str orange 'rgb:{{orange.normal.hex}}'
@@ -70,7 +73,7 @@ set-face global list "%opt{fg}"
 set-face global Default "%opt{fg},%opt{bg}"
 set-face global PrimarySelection "%opt{bg},%opt{yellow}"
 set-face global SecondarySelection "%opt{comment},%opt{yellow}"
-set-face global PrimaryCursor "%opt{bg},%opt{fg}"
+set-face global PrimaryCursor "%opt{cursor_bg},%opt{cursor_fg}"
 set-face global SecondaryCursor "%opt{bg},%opt{cyan}"
 set-face global PrimaryCursorEol "%opt{bg},%opt{yellow}"
 set-face global SecondaryCursorEol "%opt{bg},%opt{blue}"
