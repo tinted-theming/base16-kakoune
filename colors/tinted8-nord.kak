@@ -16,6 +16,9 @@ declare-option str fg_light 'rgb:eceff4'
 declare-option str fg_dark 'rgb:d8dee9'
 declare-option str sel_bg 'rgb:465165'
 declare-option str comment 'rgb:616e88'
+declare-option str cursor_bg 'rgb:e5e9f0'
+declare-option str cursor_fg 'rgb:2e3440'
+declare-option str link_fg 'rgb:88c0d0'
 declare-option str red 'rgb:'
 declare-option str red_bright 'rgb:'
 declare-option str orange 'rgb:'
@@ -70,7 +73,7 @@ set-face global list "%opt{fg}"
 set-face global Default "%opt{fg},%opt{bg}"
 set-face global PrimarySelection "%opt{bg},%opt{yellow}"
 set-face global SecondarySelection "%opt{comment},%opt{yellow}"
-set-face global PrimaryCursor "%opt{bg},%opt{fg}"
+set-face global PrimaryCursor "%opt{cursor_bg},%opt{cursor_fg}"
 set-face global SecondaryCursor "%opt{bg},%opt{cyan}"
 set-face global PrimaryCursorEol "%opt{bg},%opt{yellow}"
 set-face global SecondaryCursorEol "%opt{bg},%opt{blue}"
